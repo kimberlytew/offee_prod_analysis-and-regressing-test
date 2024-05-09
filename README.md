@@ -16,7 +16,7 @@ To justify the above SCA's definition of Specialty coffe , its production usuall
 Protocol and Scoring Syste in 1999m (SCA,2023)
 And today , SCA continues to review and reiterate the grading protocol as the industry has progressed and matured, as other attributes has became increasingly impactful to the buyer's choice , especially the environmental impact entailed the coffee production. 
 
-![specialty coffee market trend by region_grand_view_research.png](attachment:d6af44f5-f63f-4703-9d26-cb14c7c83279.png)
+(https://github.com/kimberlytew/portfolio_1/assets/116537017/b9eb72a5-09a9-42e8-a688-2df2d502ce0f)
 
 
 To entitle a higher grading, its requires a fully-integrated supply chain, from "seed to cup"where all stakeholders playan importantt role that impacts the quality of the that cup of coff and minimum compromise to mistakee . There ia s market analysis report that forcasted an annual growth of 11% from 2022 to 2030 on coffee comsumption and estimate a global value of more than $100 billion(Grand View Research) . In short, coffee market is huge and it is still growing.This presents a vast oppoortunity for Malaysia to expand its coffee bean production.  
