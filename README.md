@@ -34,27 +34,31 @@ ANALYSIS FINDINGS:
 We perform groupby fuctions and only filter out the unique producers of coffee, green (result ; 16 countries). Then we drop a few colummns which are not needed in this analysis to make the dataframe cleaner and neat.We plot a scatterplot to better illustrate the ranking of those producer countries as attached below.
 
 
-![Coffee Production by Countries from 2016 to 2022](coffee_prod_byCountry.jpg)
+![coffee_prod_byCountry](https://github.com/kimberlytew/portfolio_1/assets/116537017/8801d5d3-a60e-42e1-b377-656ba719e519)
 
 
 
 
-From tbar chart belowaset, we realised that for the conservative 2 years from 2016-2017, Malaysia was at the top 10th coffee producer , but was later taken over by other coutries. Vietnam stands as the biggest producer for the 6 years, followed by Indonesia and Indid ![Coffee Production in 2016](Production_2016.jpg)
-![Coffee Production in 2017](Production_2017.jpg)
-![Coffee Production in 2018](Production_2018.jpg)
-![Coffee Production in 2019](Production_2019.jpg)
-![Coffee Production in 2020](Production_2020.jpg)
-![Coffee Production in 2021](Production_2021.jpg)
-![Coffee Production in 2022](Production_2022.jpg)
+From tbar chart belowaset, we realised that for the conservative 2 years from 2016-2017, Malaysia was at the top 10th coffee producer , but was later taken over by other coutries. Vietnam stands as the biggest producer for the 6 years, followed by Indonesia and India 
+
+![Production_2016](https://github.com/kimberlytew/portfolio_1/assets/116537017/6fe08d5b-a5ba-49b3-a33c-c1151ac895b2)
+![Production_2017](https://github.com/kimberlytew/portfolio_1/assets/116537017/ef37d08c-3359-4993-bf2b-b24e6f4764e9)
+![Production_2018](https://github.com/kimberlytew/portfolio_1/assets/116537017/629117fa-92cf-4bf6-9355-5945922ea8fd)
+![Production_2019](https://github.com/kimberlytew/portfolio_1/assets/116537017/8997dde3-6929-40a7-8678-3d0141b1bbf4)
+![Production_2020](https://github.com/kimberlytew/portfolio_1/assets/116537017/409f40f8-3c1e-4672-8839-6f7845eed17a)
+![Production_2021](https://github.com/kimberlytew/portfolio_1/assets/116537017/05a9e3ea-e929-4e78-abe8-1cf5577dced3)
+![Production_2022](https://github.com/kimberlytew/portfolio_1/assets/116537017/34ed9b3c-2c07-4671-a491-503dcc717b83)
 
 
 However , after comparing the area havested and production yield , Malaysia was initially at the highest yield for year 2016 and 2017 , but was then over taken by China and Vietnam. The Yield scatter plot produce an insightful on how effective and effecient a country manage its coffee production as yield is calculated by 100g production / hectar of land used . 
 
 
-![Coffee Production Yield by Countries from 2016 to 2022](prod_yield.jpg)
+![prod_yield](https://github.com/kimberlytew/portfolio_1/assets/116537017/12991b62-9ef0-4026-b13b-77ba7f09c6df)
 
 
-![Malaysia Coffee Production Yield from 2016 to 2022](msia_yield.jpg)   ![Malaysia Coffee Harvested Area from 2016 to 2022](msia_area_harvest.jpg)
+
+![Msia_yield](https://github.com/kimberlytew/portfolio_1/assets/116537017/a91db13f-1efb-4de9-bc47-ff9f882b4b24)  
+![Msia_area_harvest](https://github.com/kimberlytew/portfolio_1/assets/116537017/253fa15c-2ad0-4fd6-b2e3-5e694a31b8d1)
 
 
 
@@ -69,7 +73,8 @@ Referring to the scatterplot earlier , ( "Coffee Production by Countries from 20
 
 
 
-![Coffee Production Yield by Countries from 2016 to 2022](prod_yield.jpg)
+![prod_yield](https://github.com/kimberlytew/portfolio_1/assets/116537017/c3336e06-99da-49f6-9a38-b0f6c558bf44)
+
 
 
 By plotting all the countries production yield on the scatterplot, it presents an interesting result, where Vietnam is ranked at 3rd after China and Malaysia for year 2016 and 2017 and 2nd place after China for the remaining years. We are surprised to see China taking a leap from 5th place (as shown in the previous yearly bar chart for Coffee Production by Countries from 2016 to 2022) to the top of hthe list in the production yield analysis above. 
@@ -84,14 +89,12 @@ The result of this hypothesis testing should will underpin our next step. Howeve
 The result is shown in a fitted linear regression chart below .  
 
 
- ![Fitted Linear Regression-China](china_fitLR.jpg)
+![china_fitLR](https://github.com/kimberlytew/portfolio_1/assets/116537017/4554d522-c733-40f0-af80-e89e6cc591cc)
+
+![viet_fitLR](https://github.com/kimberlytew/portfolio_1/assets/116537017/1c343c16-0ab9-4816-a4f0-f32da426b96b)
 
 
- ![Fitted Linear Regression-Vietnam](viet_fitLR.jpg)
-
-
- ![Fitted Linear Regression-Malaysia](msia_fitLR.jpg)
-
+![msia_fitLR](https://github.com/kimberlytew/portfolio_1/assets/116537017/ad3befdd-7f8a-4572-b122-70f4124425c2)
  
 
 From the model result, we get 95% of confidence level (p-value <0.05) that China and Vietnam have linear increment to their production yield. However , China has a right-skewed of 1.330 while Vietnam is slightly left-skewed at -0.097 which tell us that China has a higher mean than Vietnam. This result proves that China is showing a impressive efficient in their coffee production . 
